@@ -1,5 +1,7 @@
 name "Lojas confiáveis no Brasil"
+
 description "Mostra resultados apenas de sites de comércio eletrônico populares no Brasil."
+
 include "amazon.com.br"
 include "mercadolivre.com.br"
 include "kabum.com.br"
