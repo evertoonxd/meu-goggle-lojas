@@ -1,7 +1,7 @@
-!name: Lojas confiáveis no Brasil
-!description: Mostra resultados apenas de sites de comércio eletrônico populares no Brasil.
-!public: true
-!author: Everton França
+!name: "Lojas confiáveis no Brasil"
+!description: "Mostra resultados apenas de sites de comércio eletrônico populares no Brasil."
+!public: "true"
+!author: "Everton França"
 include "amazon.com.br"
 include "mercadolivre.com.br"
 include "kabum.com.br"
